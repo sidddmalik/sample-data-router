@@ -1,0 +1,12 @@
+{
+  "name": "batch-api",
+  "version": "1.0.0",
+  "description": "Batch ingestion API for Databricks",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
